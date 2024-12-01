@@ -1,1 +1,7 @@
---- {}
+---
+es:
+  github:
+    pull_request: GitHub Pull Request but in Spanish
+  nested:
+    key: Nested Key
+  two: Dos
