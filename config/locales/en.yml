@@ -1,7 +1,8 @@
 ---
 en:
-  hello: Hello world
-  two: Two
-  three: Now things work?
+  github:
+    pull_request: GitHub Pull Request
+  hello: Hello!
   nested:
     key: Nested key
+  two: Two
