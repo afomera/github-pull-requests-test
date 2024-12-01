@@ -1,8 +1,1 @@
----
-en:
-  github:
-    pull_request: GitHub Pull Request
-  hello: Hello!
-  nested:
-    key: Nested key
-  two: Two
+--- {}
