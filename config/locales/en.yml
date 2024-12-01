@@ -1,0 +1,7 @@
+---
+en:
+  hello: Hello world
+  two: Two
+  three: Now things work?
+  nested:
+    key: Nested key
