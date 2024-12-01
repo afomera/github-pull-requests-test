@@ -5,3 +5,5 @@ en:
   three: Now things work?
   nested:
     key: Nested key
+  github:
+    pull_request: GitHub Pull Request
