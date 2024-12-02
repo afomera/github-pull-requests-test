@@ -4,5 +4,5 @@ fr:
     pull_request: GitHub Pull Request
   hello: Bonjour
   nested:
-    key: nested key
+    key: Nested Key
   two: Two
