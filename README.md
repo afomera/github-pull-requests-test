@@ -5,3 +5,4 @@ A sandbox repository for testing pull-request automation: Maple Factory opens, r
 ## Files
 
 - `hello.txt` — a plain-text greeting that automated tasks edit; it currently says "hello from RG334-1".
+- `config/locales` — Rails-style i18n YAML files for `en`, `de`, `es` and `fr`, each holding the same keys (`github.pull_request`, `hello`, `nested.key`, `two`), used to exercise translation-update pull requests.
