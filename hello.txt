@@ -1,1 +1,2 @@
 hello from RG334-1
+(with a trailing newline, as review asked)
